@@ -1,4 +1,3 @@
-/* eslint-disable tailwindcss/no-custom-classname */
 "use client";
 
 import * as React from "react";
@@ -13,9 +12,13 @@ const Sheet = SheetPrimitive.Root;
 const SheetTrigger = SheetPrimitive.Trigger;
 
 const SheetClose = SheetPrimitive.Close;
-
-const SheetPortal = ({ ...props }: SheetPrimitive.DialogPortalProps) => (
-  <SheetPrimitive.Portal />
+const SheetPortal = ({
+  // @ts-ignore
+  className,
+  ...props
+}: SheetPrimitive.DialogPortalProps) => (
+  // @ts-ignore
+  <SheetPrimitive.Portal className={cn(className)} {...props} />
 );
 SheetPortal.displayName = SheetPrimitive.Portal.displayName;
 
