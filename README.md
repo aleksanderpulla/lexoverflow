@@ -4,8 +4,6 @@ Welcome to LexOverflow, a community-driven SaaS platform inspired by Stack Overf
 
 ![thumbnail](public/assets/images/thumbnail.jpg)
 ## Table of Contents
-- [LexOverflow](#lexoverflow)
-  - [Table of Contents](#table-of-contents)
   - [Features](#features)
   - [Technology Stack](#technology-stack)
   - [Getting Started](#getting-started)
