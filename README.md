@@ -2,14 +2,16 @@
 
 Welcome to LexOverflow, a community-driven SaaS platform inspired by Stack Overflow for asking and answering programming questions. Get help, share knowledge, and collaborate with developers from around the world. Explore topics in web development, mobile app development, algorithms, data structures, and more.
 
+![thumbnail](public/assets/images/thumbnail.jpg)
 ## Table of Contents
-
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
+- [LexOverflow](#lexoverflow)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Technology Stack](#technology-stack)
+  - [Getting Started](#getting-started)
+      - [Prerequisites](#prerequisites)
+      - [Installation](#installation)
+  - [Usage](#usage)
 
 ## Features
 
@@ -60,7 +62,7 @@ LexOverflow is built using the following technologies:
 
 Explore the functionalities of LexOverflow to make the most out of your coding experience:
 
-1. Open LexOverflow in your web browser (https://lexoverflow2.vercel.app/)
+1. Open LexOverflow in your web browser (https://lexoverflow.vercel.app/)
 2. Sign up or log in to your account.
 3. Explore questions, ask new ones, and contribute answers.
 4. Use the search bar to find relevant topics.
