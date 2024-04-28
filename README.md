@@ -49,8 +49,8 @@ LexOverflow is built using the following technologies:
 
 #### Installation
 
-1. Clone the repository: `git clone https://github.com/aleksanderpulla/lexoverflow2.git`
-2. Navigate to the project directory: `cd lexoverflow2`
+1. Clone the repository: `git clone https://github.com/aleksanderpulla/lexoverflow.git`
+2. Navigate to the project directory: `cd lexoverflow`
 3. Install dependencies: `npm install`
 4. Contact aleksanderpulla@gmail.com for a template of ".env" file, containing all the referenced environment variables of the application
 5. Start the application: `npm run dev` or `yarn dev` or `pnpm dev`
