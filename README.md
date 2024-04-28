@@ -31,7 +31,7 @@ LexOverflow is built using the following technologies:
 1. **NextJS:** A React framework for building server-side rendered applications.
 2. **TypeScript:** A superset of JavaScript that fortifies code integrity through static typing.
 3. **MongoDB:** A NoSQL database for storing and managing application data.
-4. **shadcn:** A UI component library for building a consistent and responsive user interface.
+4. **shadcn UI:** A UI component library for building a consistent and responsive user interface.
 5. **Tailwind CSS:** A utility-first CSS framework for styling the application.
 6. **Clerk:** For authentication and user management (basic, SSO)
 7. **TinyMCE:** A rich text editor empowering users to effortlessly create and edit content.
